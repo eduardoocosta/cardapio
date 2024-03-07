@@ -1,0 +1,94 @@
+    #espetinho {
+        width: 20%;
+        border-radius: 50%;
+    }
+
+    h1{
+        text-align: center;
+        padding: 7px;
+        font-family: arial;
+    }
+    h2{
+        text-align: center;
+        background-color: rgb(255, 0, 0);
+        padding: 7px;
+        color: rgb(255, 255, 255);
+        font-family: arial;
+    }
+
+   #espetinhocarne {
+    width: 20%;
+    border-radius: 50%;
+   }
+    
+   #espetinhofrango {
+    width: 20%;
+    border-radius: 50%;
+   }
+
+   #espetinholinguica{
+    width: 20%;
+    border-radius: 50%;
+   }
+
+   header {
+    padding-top: 30px;
+    text-align: center;
+    color: black;
+    height: 200px;
+    background-color: orange
+   }
+
+   #espetinhobacon {
+    width: 20%;
+    border-radius: 50%;
+   }
+
+   #taubaiana {
+    width: 20%;
+    border-radius: 50%;
+   }
+
+   #cocacola{ 
+    width: 20%;
+    border-radius: 50%;
+   }
+
+   #cocalata {
+    width: 20%;
+    border-radius: 50%;
+   }
+
+   #deelvale {
+    width: 20%;
+    border-radius: 50%;
+   }
+
+   #suconatu {
+    width: 20%;
+    border-radius: 50%;
+   }
+
+   #espetos {
+    text-align: center;
+    background-color: rgb(98, 0, 255);
+    padding: 7px;
+    color: rgb(255, 255, 255);
+    font-family: arial;
+   }
+
+   #bebidas{
+    text-align: center;
+    background-color: rgb(98, 0, 255);
+    padding: 7px;
+    color: rgb(255, 255, 255);
+    font-family: arial;
+   }
+
+   #cardapio {
+    text-align: center;
+    background-color: orange;
+    padding: 7px;
+    color: rgb(255, 255, 255);
+    font-family: arial;
+   }
