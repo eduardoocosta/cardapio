@@ -21,6 +21,6 @@ Este é um repositório no GitHub que apresenta um projeto prático de desenvolv
 >1. Abra o arquivo "Cardapio" em seu navegador web.
 >2. Veja as opções de espetos e bebidas.
 
-# Autor
+# Desenvolvedor do projeto
 * [eduardoocosta](https://github.com/eduardoocosta)
 * [duardoosta](https://www.instagram.com/duardooosta)
