@@ -1,7 +1,7 @@
 # Cardápio de espetinhos 🍢
 
 # Licença
-![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.1-white) 
+![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.2-white) 
 
 # Descrição do Projeto
 Este é um repositório no GitHub que apresenta um projeto prático de desenvolvido com HTML5 e CSS3.
